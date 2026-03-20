@@ -53,11 +53,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-*Rafika Cervera · github.com/RAFCERAY*
-```
-
 ## Stack technique
-Python · pandas · scikit-learn · statsmodels · matplotlib · seaborn
+Python · Pandas · Scikit-learn · Statsmodels · Matplotlib · Seaborn · Streamlit · Plotly
 
 ## Auteur
-Rafika Ayari Cervera — [LinkedIn](https://www.linkedin.com/in/rafikacervera/)
+Rafika Ayari Cervera — [LinkedIn](https://www.linkedin.com/in/rafikacervera/) · [GitHub](https://github.com/RAFCERAY)
