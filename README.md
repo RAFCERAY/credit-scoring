@@ -1,4 +1,5 @@
 # 💳 Scoring de Crédit Bancaire — Modélisation Prédictive
+**[▶ Tester l'application en ligne](https://rafceray-credit-scoring-app.streamlit.app)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
